@@ -1,0 +1,67 @@
+{
+  "privacyPolicy": "プライバシーポリシー",
+  "termsOfUse": "利用規約",
+  "privacy": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "本アプリは個人情報を収集、保存、または送信しません。Remote TV : Control Universal のすべての機能は、ローカル Wi-Fi ネットワーク内でのみ動作します。外部サーバーには接続せず、情報が第三者と共有されることはありません。"},
+        {"type": "list", "text": "次の情報は収集されません：", "items":  [
+          "個人情報",
+          "位置情報",
+          "メディアファイル",
+          "閲覧履歴",
+          "デバイス識別子"
+        ]},
+        {"type": "paragraph", "text": "このアプリを使用することで、個人情報が収集または処理されないことに同意したとみなされます。"},
+        {"type": "paragraph", "text": "お問い合わせ先： "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""}
+      ]
+    }
+  },
+  "terms": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "このアプリは、「現状のまま」個人かつ非商用利用の目的で提供されます。 本アプリを使用することで、機能を悪用したり、逆コンパイルしたり、制限された機能にアクセスしようとしたりしないことに同意したとみなされます。"},
+        {"type": "paragraph", "text": "このアプリは、ローカル Wi-Fi ネットワーク経由で互換性のあるスマートテレビと連携するよう設計されています。 互換性の問題や誤使用については責任を負いません。"},
+        {"type": "paragraph", "text": "本アプリの使用はご自身の責任で行ってください。 動作、利用可能性、特定デバイスとの互換性に関しては保証されません。"},
+        {"type": "paragraph", "text": "お問い合わせ先： "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""}
+      ]
+    }
+  }
+}

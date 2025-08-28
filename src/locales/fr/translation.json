@@ -1,0 +1,67 @@
+{
+  "privacyPolicy": "Politique de confidentialité",
+  "termsOfUse": "Conditions d’utilisation",
+  "privacy": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "Cette application ne collecte, ne stocke ni ne transmet aucune donnée personnelle. Toutes les fonctions de Remote TV : Control Universal fonctionnent exclusivement sur votre réseau Wi-Fi local. L’application ne se connecte pas à des serveurs externes et ne partage aucune information avec des tiers."},
+        {"type": "list", "text": "Nous ne collectons ni n’accédons à :", "items":  [
+          "Données personnelles",
+          "Position géographique",
+          "Fichiers multimédias",
+          "Activité de navigation",
+          "Identifiants de l’appareil"
+        ]},
+        {"type": "paragraph", "text": "En utilisant cette application, vous acceptez qu’aucune donnée personnelle ne soit collectée ni traitée."},
+        {"type": "paragraph", "text": "Contact: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""}
+      ]
+    }
+  },
+  "terms": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "Cette application est fournie “telle quelle” pour une utilisation personnelle et non commerciale uniquement. En utilisant cette application, vous acceptez de ne pas en abuser, de ne pas la décompiler, ni de tenter d’accéder à des fonctionnalités restreintes."},
+        {"type": "paragraph", "text": "L’application est conçue pour fonctionner avec des Smart TV compatibles via votre réseau Wi-Fi local. Nous ne sommes pas responsables des problèmes de compatibilité ou d’une mauvaise utilisation."},
+        {"type": "paragraph", "text": "L’utilisation de cette application se fait à vos propres risques. Aucune garantie n’est fournie concernant la disponibilité, les performances ou la compatibilité avec des appareils spécifiques."},
+        {"type": "paragraph", "text": "Contact: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""}
+      ]
+    }
+  }
+}

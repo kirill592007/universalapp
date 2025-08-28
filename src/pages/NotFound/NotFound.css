@@ -1,0 +1,11 @@
+.notFound{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 30px;
+}
+.notFound .title{
+    text-align: center;
+}

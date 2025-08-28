@@ -1,0 +1,12 @@
+.support{
+    padding-top: 20px;
+    flex-grow: 1;
+}
+.support__content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.support .title{
+    text-align: center;
+}

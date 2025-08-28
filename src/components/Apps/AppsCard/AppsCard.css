@@ -1,0 +1,28 @@
+.apps__card{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 10px;
+    box-shadow: 10px 10px 20px #101010;
+    width: 100%;
+}
+.apps__card_top{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    margin-bottom: 20px;
+}
+.apps__card .title{
+    color: #333333;
+}
+.apps__card .button{
+    width: 200px;
+}
+@media (max-width: 576px) {
+    .apps__card .button{
+        width: 100px;
+    }
+}

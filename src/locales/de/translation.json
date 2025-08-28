@@ -1,0 +1,67 @@
+{
+  "privacyPolicy": "Datenschutzerklärung",
+  "termsOfUse": "Nutzungsbedingungen",
+  "privacy": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "Diese App sammelt, speichert oder überträgt keine persönlichen Daten. Alle Funktionen von Remote TV : Control Universal arbeiten ausschließlich innerhalb Ihres lokalen WLAN-Netzwerks. Die App verbindet sich nicht mit externen Servern und gibt keine Informationen an Dritte weiter."},
+        {"type": "list", "text": "Wir erfassen oder verwenden keine:", "items":  [
+          "Persönlichen Daten",
+          "Standortdaten",
+          "Mediendateien",
+          "Surfverläufe",
+          "Gerätekennungen"
+        ]},
+        {"type": "paragraph", "text": "Durch die Nutzung dieser App stimmen Sie zu, dass keine persönlichen Daten erfasst oder verarbeitet werden."},
+        {"type": "paragraph", "text": "Kontakt: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""}
+      ]
+    }
+  },
+  "terms": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "Diese App wird „wie besehen“ ausschließlich für den persönlichen und nicht kommerziellen Gebrauch bereitgestellt. Mit der Nutzung dieser App erklären Sie sich damit einverstanden, ihre Funktionen nicht zu missbrauchen, nicht zu dekompilieren und keinen Zugriff auf eingeschränkte Bereiche zu versuchen."},
+        {"type": "paragraph", "text": "Die App ist für die Nutzung mit kompatiblen Smart-TVs über Ihr lokales WLAN konzipiert.Wir übernehmen keine Verantwortung für Inkompatibilitäten oder Missbrauch der App."},
+        {"type": "paragraph", "text": "Die Nutzung der App erfolgt auf eigenes Risiko. Es werden keine Garantien in Bezug auf Verfügbarkeit, Leistung oder Kompatibilität gegeben."},
+        {"type": "paragraph", "text": "Kontakt: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""}
+      ]
+    }
+  }
+}

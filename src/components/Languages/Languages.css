@@ -1,0 +1,12 @@
+.languages{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 7px 20px;
+}
+.languages .link{
+    text-align: center;
+}
+.languages .active{
+    border: 0;
+}

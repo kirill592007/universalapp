@@ -1,0 +1,25 @@
+.regulations{
+    background: linear-gradient(45deg, #696767, #333333) center/cover no-repeat;
+    padding: 15px 0;
+    flex-grow: 1;
+}
+.regulations__content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.regulations__list .subtitle{
+    list-style: disc;
+}
+.regulations__list_item{
+    margin-left: 19px;
+}
+.regulations__title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+@media (max-width: 576px) {
+    .regulations__content{
+        row-gap: 15px;
+    }
+}

@@ -1,0 +1,67 @@
+{
+  "privacyPolicy": "Política de privacidad",
+  "termsOfUse": "Términos de uso",
+  "privacy": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "Esta aplicación no recopila, almacena ni transmite datos personales. Todas las funciones de la app Remote TV : Control Universal operan exclusivamente dentro de su red Wi-Fi local. La app no se conecta a servidores externos ni comparte información con terceros."},
+        {"type": "list", "text": "No recopilamos ni accedemos a:", "items":  [
+          "Datos personales",
+          "Ubicación",
+          "Archivos multimedia",
+          "Historial de navegación",
+          "Identificadores del dispositivo"
+        ]},
+        {"type": "paragraph", "text": "Al usar esta aplicación, usted acepta que no se recopilan ni procesan datos personales de ninguna manera."},
+        {"type": "paragraph", "text": "Para consultas, contáctenos en: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""},
+        {"type": "paragraph", "text": ""}
+      ]
+    }
+  },
+  "terms": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "Esta aplicación se proporciona “tal cual” para uso personal y no comercial únicamente. Al utilizar esta aplicación, usted acepta no hacer un uso indebido de sus funciones, descompilarla ni intentar acceder a funciones restringidas."},
+        {"type": "paragraph", "text": "La aplicación está diseñada para funcionar con Smart TVs compatibles a través de su red Wi-Fi local. No somos responsables de ninguna incompatibilidad ni del mal uso de la aplicación."},
+        {"type": "paragraph", "text": "El uso de esta aplicación es bajo su propio riesgo. No se proporcionan garantías sobre la disponibilidad, el rendimiento o la compatibilidad con dispositivos específicos."},
+        {"type": "paragraph", "text": "Contacto: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "list", "title": "", "text": "", "items":  [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""},
+        {"type": "paragraph", "text": "", "title": ""}
+      ]
+    }
+  }
+}

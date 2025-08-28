@@ -1,0 +1,10 @@
+.supportContacts__content{
+    display: flex;
+    justify-content: space-between;
+}
+.supportContacts__box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

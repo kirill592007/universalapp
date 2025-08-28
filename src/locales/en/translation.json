@@ -1,0 +1,67 @@
+{
+  "privacyPolicy": "Privacy Policy",
+  "termsOfUse": "Terms Of Use",
+  "privacy": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "This application does not collect, store, or transmit any personal data. All functions of the Remote TV : Control Universal app operate exclusively within your local Wi-Fi network. The app does not connect to external servers, and no information is shared with third parties."},
+        {"type": "list", "text": "We do not collect or access:", "items":  [
+          "Personal data",
+          "Location",
+          "Media files",
+          "Browsing activity",
+          "Device identifiers"
+        ]},
+        {"type": "paragraph", "text": "By using this app, you agree that no personal data is collected or processed in any way."},
+        {"type": "paragraph", "text": "If you have any questions or concerns about this Privacy Policy, you can contact us at: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": "Invoice Pro Maker, operated by vitales_first, provides the Invoice Pro Maker mobile application (the \"Service\")."},
+        {"type": "paragraph", "text": "This Privacy Policy describes how we collect, use, and disclose information when you use our Service."},
+        {"type": "paragraph", "text": "Invoice Pro Maker is designed to operate without requiring personally identifiable information. We do not collect your name, email, phone number, or postal address to use the Service.", "title": "1. Information Collection and Use"},
+        {"type": "list", "title": "2. Third-Party Services", "text": "The Service uses third-party services to provide subscriptions and payments:", "items":  [
+          "Apple App Store (for processing payments and managing your Apple ID subscriptions),",
+          "Adapty (for subscription management)."
+        ]},
+        {"type": "paragraph", "text": "These services may collect information as described in their own privacy policies. We strongly recommend reviewing them."},
+        {"type": "paragraph", "text": "In case of technical errors, the Service may collect device data (“Log Data”), such as IP address, device model, operating system version, time and date of use, and other statistics. This information is used only for improving the Service.", "title": "3. Log Data"},
+        {"type": "paragraph", "text": "The Service itself does not use cookies. However, third-party services (such as Adapty or Apple) may use cookies in their SDKs.", "title": "4. Cookies"},
+        {"type": "paragraph", "text": "We use commercially reasonable means to protect your information. However, no method of electronic storage is 100% secure.", "title": "5. Security"},
+        {"type": "paragraph", "text": "Our Service is not directed at children under 13. We do not knowingly collect data from children. If you believe your child has provided us with personal information, please contact us.", "title": "6. Children’s Privacy"},
+        {"type": "paragraph", "text": "We may update this Privacy Policy from time to time. Updates are effective when posted.", "title": "7. Changes"},
+        {"type": "paragraph", "text": "If you have any questions about this Privacy Policy, contact us at: vitales.first@gmail.com", "title": "8. Contact"}
+      ]
+    }
+  },
+  "terms": {
+    "RTCU": {
+      "sections": [
+        {"type": "paragraph", "text": "This app is provided “as is” for personal and non-commercial use only. By using this application, you agree not to misuse its functionality, reverse engineer, decompile, or attempt to access any restricted features."},
+        {"type": "paragraph", "text": "The app is designed to operate with compatible Smart TVs via your local Wi-Fi network. We are not responsible for any incompatibility issues, hardware limitations, or misuse of the application."},
+        {"type": "paragraph", "text": "Use of this app is at your own risk. No warranties are provided regarding availability, performance, or compatibility with specific devices."},
+        {"type": "paragraph", "text": "If you have any questions regarding these terms, you may contact us at: "}
+      ]
+    },
+    "IPM": {
+      "sections": [
+        {"type": "paragraph", "text": "The Invoice Pro Maker mobile application (the “App”) is operated by vitales_first. By using the App, you agree to these Terms.", "title": "1. Introduction"},
+        {"type": "paragraph", "text": "You must be at least 13 years old (or the minimum legal age in your country) to use the App.", "title": "2. Eligibility"},
+        {"type": "paragraph", "text": "We grant you a limited, non-transferable, non-exclusive license to use the App for personal purposes. You may not copy, modify, or distribute the App.", "title": "3. License"},
+        {"type": "list", "title": "4. Subscriptions and Payments", "text": "The App offers auto-renewable subscriptions.", "items":  [
+          "Payment will be charged to your Apple ID account at the time of purchase",
+          "Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.",
+          "Your account will be charged for renewal within 24 hours prior to the end of the current period.",
+          "You can manage or cancel your subscription in your App Store account settings.",
+          "Any unused portion of a free trial period will be forfeited when a subscription is purchased."
+        ]},
+        {"type": "paragraph", "text": "You are responsible for any content you enter or generate in the App. We do not claim ownership of your invoices or business data.", "title": "5. User Content"},
+        {"type": "paragraph", "text": "The App may use third-party services (Apple App Store, Adapty). We are not responsible for their content or policies.", "title": "6. Third-Party Services"},
+        {"type": "paragraph", "text": "The App is provided “as is” without warranties. vitales_first is not liable for damages resulting from your use of the App.", "title": "7. Limitation of Liability"},
+        {"type": "paragraph", "text": "We may update these Terms occasionally. Changes are effective upon posting.", "title": "8. Changes"},
+        {"type": "paragraph", "text": "For any questions regarding these Terms, contact: vitales.first@gmail.com", "title": "9. Contact"}
+      ]
+    }
+  }
+}

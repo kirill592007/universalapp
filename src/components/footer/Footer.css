@@ -1,0 +1,14 @@
+.footer{
+    padding: 15px 0;
+    background-color: #212020;
+    flex-shrink: 0;
+}
+.footer__nav{
+    display: flex;
+    justify-content: end;
+}
+.footer__list{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+}

@@ -1,0 +1,4 @@
+.appPage{
+    flex-grow: 1;
+    background: linear-gradient(45deg, #696767, #333333) center/cover no-repeat;
+}

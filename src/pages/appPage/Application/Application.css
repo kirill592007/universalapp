@@ -1,0 +1,30 @@
+.application{
+    padding: 15px 0;
+}
+.application__content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.application__top{
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+}
+.application__box{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    align-items: center;
+}
+.application__list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+.application .link{
+    text-align: center;
+}
+.application .button{
+    width: 200px;
+}
